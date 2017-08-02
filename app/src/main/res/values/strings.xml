@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ChoreApp</string>
+    <string name="enter_chore">Enter a Chore</string>
+    <string name="assignto">Assigned To...</string>
+    <string name="assignby">Assigned By...</string>
+    <string name="save_button">Save Chore</string>
+    <string name="image_description">Icon of a Chore</string>
+    <string name="assign_by">Assigned By</string>
+    <string name="assign_to">Assigned To</string>
+    <string name="chore_name">Chore Name</string>
+    <string name="menu_item">Add Chore</string>
+    <string name="assign_date">Date: 27 April 2017</string>
+</resources>
